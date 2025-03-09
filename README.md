@@ -22,4 +22,4 @@ This project is a responsive web application built with React and Tailwind CSS. 
    git clone https://github.com/Maximus5470/react-static-webpage.git
    cd react-static-webpage
 
-## View website- [https://react-static-webpage-pearl.vercel.app] (Click Here)
+## View website- (https://react-static-webpage-pearl.vercel.app)[Click Here]
