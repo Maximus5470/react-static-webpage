@@ -19,7 +19,7 @@ This project is a responsive web application built with React and Tailwind CSS. 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Maximus5470/react-static-webpage.git
    cd react-static-webpage
 
-## View website- [https://react-static-webpage-pearl.vercel.app/](Click Here)
+## View website- [https://react-static-webpage-pearl.vercel.app] (Click Here)
