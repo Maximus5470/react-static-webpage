@@ -1,4 +1,4 @@
-# Project Name
+# Modern React Website
 
 ## Description
 This project is a responsive web application built with React and Tailwind CSS. It features a navigation bar, hero section, feature cards, and testimonials. The application is designed to be mobile-friendly and provides a seamless user experience across different devices.
